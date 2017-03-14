@@ -18,7 +18,7 @@ development:
 
 test:
   <<: *default
-  database: noragami_dev
+  database: noragami_test
 
 production:
   <<: *default
